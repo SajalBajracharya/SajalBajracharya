@@ -49,4 +49,4 @@ My journey in Information Technology has led me to develop a passion for cyberse
 </div>
 
 ## Projects
-- Penetration Assessment and Remediation Plan
+- <a href=" https://github.com/SajalBajracharya/Penetration-Assessment-and-Remediation-Plan/tree/main">Penetration Assessment and Remediation Plan</a>
