@@ -17,8 +17,6 @@ My journey in Information Technology has led me to develop a passion for cyberse
 | Remediation Planning      | <a href="https://github.com/SajalBajracharya/Penetration-Assessment-and-Remediation-Plan/tree/main">Penetration Assessment and Remediation Plan</a>|
 
 ## Tools
-# Tools Used in IT Security Assessment
-
 ## Reconnaissance
 - **Google Search**: Advanced search techniques to find publicly available information.
 - **LinkedIn**: Gathered information about organizational structure and key personnel.
