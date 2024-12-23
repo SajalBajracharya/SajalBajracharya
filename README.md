@@ -17,20 +17,30 @@ My journey in Information Technology has led me to develop a passion for cyberse
 | Remediation Planning      | <a href="https://github.com/SajalBajracharya/Penetration-Assessment-and-Remediation-Plan/tree/main">Penetration Assessment and Remediation Plan</a>|
 
 ## Tools
-Shodan
-LinkedIn
-Whois Lookup
-Nmap
-Masscan
-Angry IP Scanner
-Net discover
-Nessus
-OpenBAS
-Invicti
-Burp Suite
-Arachni
-Maltego
-Mitaka
+# Tools Used in IT Security Assessment
+
+## Reconnaissance
+- **Google Search**: Advanced search techniques to find publicly available information.
+- **LinkedIn**: Gathered information about organizational structure and key personnel.
+- **WHOIS Lookup**: Retrieved domain registration details.
+- **Shodan**: Identified internet-connected devices and exposed services.
+
+## Scanning and Enumeration
+- **Nmap**: Performed detailed network scans and service detection.
+- **Masscan**: High-speed port scanning for large networks.
+- **Angry IP Scanner**: Fast IP and port scanning with an easy-to-use interface.
+- **Netdiscover**: Passive and active network discovery for local subnets.
+
+## Vulnerability Assessment
+- **Nessus**: Comprehensive vulnerability scanning and detailed reporting.
+- **OpenVAS**: Open-source vulnerability scanner for network and web services.
+- **Invicti**: Automated web application security scanning.
+- **Burp Suite**: Manual and automated web application testing.
+- **Arachni**: Open-source web application security scanner.
+
+## Threat Analysis
+- **Maltego**: Visualization of relationships between entities.
+- **Mitaka**: Aggregated threat intelligence and data analysis.
 
 ### Network
 <div>
