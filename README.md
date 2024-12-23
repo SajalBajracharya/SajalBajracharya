@@ -11,15 +11,26 @@ My journey in Information Technology has led me to develop a passion for cyberse
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Reconnaissance         |<a href="https://github.com/SajalBajracharya/Penetration-Assessment-and-Remediation-Plan/tree/main">Penetration Assessment and Remediation Plan</a>|
+| Vulnerability Analysis | <a href="https://github.com/SajalBajracharya/Penetration-Assessment-and-Remediation-Plan/tree/main">Penetration Assessment and Remediation Plan</a>|
+| Risk Assessment         | <a href="https://github.com/SajalBajracharya/Penetration-Assessment-and-Remediation-Plan/tree/main">Penetration Assessment and Remediation Plan</a>|
+| Remediation Planning      | <a href="https://github.com/SajalBajracharya/Penetration-Assessment-and-Remediation-Plan/tree/main">Penetration Assessment and Remediation Plan</a>|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+Shodan
+LinkedIn
+Whois Lookup
+Nmap
+Masscan
+Angry IP Scanner
+Net discover
+Nessus
+OpenBAS
+Invicti
+Burp Suite
+Arachni
+Maltego
+Mitaka
 
 ### Network
 <div>
